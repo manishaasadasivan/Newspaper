@@ -1,0 +1,35 @@
+.pageheader{
+ text-align: center;
+  padding-top:10px;
+  
+}
+
+#leftcornercontent{
+  display:flex;
+  justify-content: center;
+  border: 1px solid grey;
+  padding-left:10px;
+  padding-right:5px;
+  font-size:20px;
+}
+#rightcornercontent{
+  display:flex;
+  justify-content: center;
+  border: 2px solid grey;
+  padding:5px;
+}
+.borderline{
+  border-bottom: 2px solid black;
+}
+#maincontent{
+  padding-top:30px ;
+  padding-bottom:30px ;
+  padding-right:30px ;
+  padding-left:30px ;
+}
+.header{
+  font-size:30px;
+}
+.add{
+  border: 2px solid rgb(202, 195, 195);
+}
